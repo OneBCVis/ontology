@@ -12,7 +12,12 @@ The ontology is organized into several classes and properties that represent var
 - **Transaction**
 - **Ledger State**
 - **Fee Model**
-- **Nodes and Participants**
 
-Please visit following link for descriptions of each of the concepts and properties identified.
-Link : 
+Please visit the following link for descriptions of each of the concepts and properties identified.
+Link: https://onevis.notion.site/Multi-Blockchain-Ontology-375131e9d36e42bf8fee3c66b44492fa
+
+## Ontology Evaluation
+
+The objective of ontology evaluation is to determine the accuracy of the identified concepts, properties, and relationships between them. The evaluation methodology involves the evaluation of the ontology using the experts in the domain using a survey questionnaire. The evaluation process engaged both blockchain researchers and developers.
+If you would like to contribute to the ontology evaluation please reach out for the following form.
+https://forms.gle/9C7ubBQEA12iRNwr7
